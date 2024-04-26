@@ -44,5 +44,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darilpratomo&theme=dark" alt="darilpratomo" /></p>
 <hr/>
 
-<p><a href="https://www.buymeacoffee.com/darilprtm"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="darilprtm" /></a></p><br><br>
-
+<p><a href="https://www.buymeacoffee.com/darilprtm"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="darilprtm" /></a></p>
+<a href="https://ko-fi.com/ko-fi.com/darilprtm"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/darilprtm" /></a></p><br><br>
