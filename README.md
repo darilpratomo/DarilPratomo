@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Developer Path**
 
-- 👨‍💻 All of my projects are available at [https://darilpratomo.github.io/](https://darilpratomo.github.io/)
+- 👨‍💻 All of my projects are available at [https://daril-website.vercel.app](https://daril-website.vercel.app)
 
 - 💬 Ask me about **Website and UI Design**
 
